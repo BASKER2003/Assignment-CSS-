@@ -1,0 +1,14 @@
+
+h1 
+{
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 2px solid #57b1dc;
+}
+h2 
+{
+    color: orangered;
+    font-size: 20px;
+}
